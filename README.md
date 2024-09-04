@@ -14,6 +14,9 @@
 - https://youtu.be/lABBZdNet8I
 
 
+## 🌐 : 실행파일 링크
+
+- [실행 APK파일 다운로드 링크](https://drive.google.com/file/d/1jTi5V4giNB__oCBu9YiGFZrg7Yn8Y3jp/view?usp=drive_link)
 
 ## ⚙️ : 구현 기능
 
